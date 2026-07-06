@@ -1,7 +1,7 @@
 # Window Layout Manager
 
 ## Goal
-Window Layout Manager is a Windows desktop utility for saving and restoring window layouts with global hotkeys. The initial v1 release focuses on local JSON-backed persistence and a WPF tray interface.
+Window Layout Manager is a Windows desktop utility for saving and restoring window layouts with global hotkeys. The initial v1 release focuses on local JSON-backed persistence and a Python/Tkinter interface.
 
 ## Roadmap
 1. v1 Local MVP

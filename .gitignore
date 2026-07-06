@@ -20,6 +20,15 @@ packages/
 *.snupkg
 project.lock.json
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
 # Logs and local data
 *.log
 *.tmp
